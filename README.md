@@ -5,10 +5,8 @@ In Java.
 At the moment the repository includes the following concepts
 - [Basics](https://github.com/fededev01/Learn-JavaScript/blob/master/basics.js)
 - [Hello, World !](https://github.com/fededev01/Learn-JavaScript/blob/master/hello-world.js)
-- [Variables](https://github.com/fededev01/Learn-Java/blob/master/variables.java)
-- [Primitive Operators](https://github.com/fededev01/Learn-Java/blob/master/primitive-operators.java)
-- [Increments](https://github.com/fededev01/Learn-Java/blob/master/increments.java)
-- [Strings](https://github.com/fededev01/Learn-Java/blob/master/strings.java)
+- [Variables](https://github.com/fededev01/Learn-JavaScript/blob/master/variables.js)
+- [](https://github.com/fededev01/Learn-JavaScript/blob/master/strings.js)
 
 
 ##### How can I help?
