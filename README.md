@@ -6,7 +6,7 @@ At the moment the repository includes the following concepts
 - [Basics](https://github.com/fededev01/Learn-JavaScript/blob/master/basics.js)
 - [Hello, World !](https://github.com/fededev01/Learn-JavaScript/blob/master/hello-world.js)
 - [Variables](https://github.com/fededev01/Learn-JavaScript/blob/master/variables.js)
-- [](https://github.com/fededev01/Learn-JavaScript/blob/master/strings.js)
+- [Reserved Words](https://github.com/fededev01/Learn-JavaScript/blob/master/reserved-words.js)
 
 
 ##### How can I help?
