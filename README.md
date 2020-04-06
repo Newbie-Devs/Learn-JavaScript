@@ -27,6 +27,6 @@ You can also star this repository if you like the content.
 
 #### Code of Conduct
 
-This repository have also a code of conduct, consult it by clicking [here](https://github.com/fededev01/Learn-Java/blob/master/CODE_OF_CONDUCT.md)
+This repository have also a code of conduct, consult it by clicking [here](https://github.com/fededev01/Learn-JavaScript/blob/master/CODE_OF_CONDUCT.md)
 Please, before to interact with the repo, read it.
 
