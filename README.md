@@ -3,8 +3,8 @@ This repository is created to teach to new users to develop
 In Java. 
 
 At the moment the repository includes the following concepts
-- [Hello, World !](https://github.com/fededev01/Learn-Java/blob/master/hello-world.java)
-- [Multi-line Comments](https://github.com/fededev01/Learn-Java/blob/master/multi-line-comments.java)
+- [Basics](https://github.com/fededev01/Learn-JavaScript/blob/master/basics.js)
+- [Hello, World !](https://github.com/fededev01/Learn-JavaScript/blob/master/hello-world.js)
 - [Variables](https://github.com/fededev01/Learn-Java/blob/master/variables.java)
 - [Primitive Operators](https://github.com/fededev01/Learn-Java/blob/master/primitive-operators.java)
 - [Increments](https://github.com/fededev01/Learn-Java/blob/master/increments.java)
