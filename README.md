@@ -3,10 +3,10 @@ This repository is created to teach to new users to develop
 In Java. 
 
 At the moment the repository includes the following concepts
-- [Basics](https://github.com/fededev01/Learn-JavaScript/blob/master/basics.js)
-- [Hello, World !](https://github.com/fededev01/Learn-JavaScript/blob/master/hello-world.js)
-- [Variables](https://github.com/fededev01/Learn-JavaScript/blob/master/variables.js)
-- [Reserved Words](https://github.com/fededev01/Learn-JavaScript/blob/master/reserved-words.js)
+- [Basics](https://github.com/fededev01/Learn-JavaScript/blob/master/docs/basics.js)
+- [Hello, World !](https://github.com/fededev01/Learn-JavaScript/blob/master/docs/hello-world.js)
+- [Variables](https://github.com/fededev01/Learn-JavaScript/blob/master/docs/variables.js)
+- [Reserved Words](https://github.com/fededev01/Learn-JavaScript/blob/master/docs/reserved-words.js)
 
 
 ##### How can I help?
